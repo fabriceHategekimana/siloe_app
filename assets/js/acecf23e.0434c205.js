@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunksiloe=globalThis.webpackChunksiloe||[]).push([[1903],{1912:s=>{s.exports=JSON.parse('{"blogBasePath":"/siloe_app/blog","blogTitle":"Blog","authorsListPath":"/siloe_app/blog/authors"}')}}]);
